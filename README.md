@@ -4,6 +4,22 @@
 
 ![](docs/1.jpg)
 
+## 使用方法
+
+下载仓库并放入 `mpv.exe` 所在文件夹的 `portable_config` 文件夹
+
+```
+📁 mpv/
+├── 📦 mpv.exe
+├── 📦 yt-dlp.exe
+└── 📁 portable_config/
+    ├── 📁 fonts
+    ├── 📁 script-opts
+    ├── 📁 scripts
+    ├── 📄 input.conf
+    └── 📄 mpv.conf
+```
+
 ## 使用的三方库
 
 - [Samillion/ModernZ](https://github.com/Samillion/ModernZ) 本项目 UI 基于 ModernZ
